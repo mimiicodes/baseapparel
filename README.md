@@ -1,2 +1,2 @@
 # baseapparel
-https://mirakleddev.github.io/baseapparel/aparel.html
+https://mimiicodes.github.io/baseapparel/aparel.html
